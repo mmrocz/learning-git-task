@@ -1,5 +1,5 @@
 shopping_dict = {
-    "warzywniak": ['marchew', 'seler', 'rukola'],
+    "warzywniak": ['marchewki', 'seler', 'rukola'],
     "piekarnia": ['chleb', 'pączek', 'bułki']}
 k=0
 print('Lista zakupów')
